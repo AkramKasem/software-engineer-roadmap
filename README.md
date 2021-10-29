@@ -30,7 +30,6 @@
 |----------|:-------------:|
 | Intro to Theoretical Computer Science |  https://bit.ly/3Euod99  |
 | Computability, Complexity & Algorithms |  https://bit.ly/2ZsKBAK  |
-| Product Design |    https://bit.ly/3pSS3QZ  |
 |Intro to Algorithms  |   https://bit.ly/3pNnYSP  |
 |Introduction to Graduate Algorithms  |   https://bit.ly/3jP4fhL  |
 
