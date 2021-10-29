@@ -52,6 +52,7 @@
 | Course name | LINK | Prerequisites
 |:----------------:|:-------------:|:-------------------:|
 | design of everything |  https://bit.ly/37wE2OX | There are no prerequisites for the course; it’s for anyone curious about basic design principles.
+| Linux Command Line Basics | https://bit.ly/3moq5u4 |To take this course, you should have beginner-level experience in a programming languages such as Python or JavaScript. While this course does not involve doing any programming, it does use concepts that are familiar to the beginning programmer such as "function", "expression", and "string".
 | How to Build a startup |  https://bit.ly/3CEXmHj | This class involves no programming. The characteristics of a budding entrepreneur: passion, tenacity, and a willingness to work hard, are essential.
 | Get Your Startup Started | https://bit.ly/3BkMzAh | Take How to Build a startup Course
 | Version Control |  https://bit.ly/31dZEPF | This course is ideal for developers of all skill levels. Experience with the command line is beneficial, but not required.
