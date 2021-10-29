@@ -15,16 +15,16 @@
 
 ## Implementation
 
-### introduction
+#### introduction
 | Course name | LINK |
 |----------|:-------------:|
 | Introduction to Python Programming	 | https://bit.ly/3b8zW  
 
-### Algorithms
+#### Algorithms
 
-### Data Structure
+#### Data Structure
 
-### Database
+#### Database
 | Course name | LINK |
 |----------|:-------------:|
 | princeples of Design	 |    https://bit.ly/2Ze4QPc  |
