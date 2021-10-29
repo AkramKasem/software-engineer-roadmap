@@ -9,10 +9,19 @@
 | Course name | LINK |
 |----------|:-------------:|
 | prototyping |    https://bit.ly/3b3R33j  |
+| Product Design |    https://bit.ly/3pSS3QZ  |
+|Software Architecture & Design  |   https://bit.ly/3CpwD12  |
+
 
 ## Implementation
 
 ## Testing & Debugging
+| Course name | LINK |
+|----------|:-------------:|
+| Software Analysis & Testing |    https://bit.ly/3EsrG8g  |
+| Software Testing |    https://bit.ly/3nKB7tg  |
+|Software Debugging  |   https://bit.ly/3BnGVxh  |
+
 
 ## General Topics
 | Course name | LINK | Prerequisites
