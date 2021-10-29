@@ -25,6 +25,10 @@
 ### Data Structure
 
 ### Database
+| Course name | LINK |
+|----------|:-------------:|
+| princeples of Design	 |    https://bit.ly/2Ze4QPc  |
+| introduction to relational database	 |    https://bit.ly/3rY2Oin  |
 
 
 ## Testing & Debugging
