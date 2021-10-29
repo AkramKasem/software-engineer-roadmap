@@ -20,9 +20,13 @@
 |----------|:-------------:|
 | Introduction to Python Programming	 | https://bit.ly/3b8zW  
 
+#### Data Structure
+| Course name | LINK |
+|----------|:-------------:|
+| Intro to Data Structures and Algorithms		 | https://bit.ly/3aiLYou
+
 #### Algorithms
 
-#### Data Structure
 
 #### Database
 | Course name | LINK |
