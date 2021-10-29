@@ -26,7 +26,13 @@
 | Intro to Data Structures and Algorithms		 | https://bit.ly/3aiLYou
 
 #### Algorithms
-
+| Course name | LINK |
+|----------|:-------------:|
+| Intro to Theoretical Computer Science |  https://bit.ly/3Euod99  |
+| Computability, Complexity & Algorithms |  https://bit.ly/2ZsKBAK  |
+| Product Design |    https://bit.ly/3pSS3QZ  |
+|Intro to Algorithms  |   https://bit.ly/3pNnYSP  |
+|Introduction to Graduate Algorithms  |   https://bit.ly/3jP4fhL  |
 
 #### Database
 | Course name | LINK |
